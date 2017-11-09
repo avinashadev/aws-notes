@@ -1,4 +1,4 @@
-# AWS notes for self for refernce 
+# AWS notes for self for reference 
 # !! Disclamer this info may be obsolete or redundant in the future.
 
 ### IAM (Identity and Access Management)
